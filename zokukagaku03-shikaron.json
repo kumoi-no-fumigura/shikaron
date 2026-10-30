@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/shikaron",
  "yomi": "しかろん",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "歌論書（問答）",
+  "era": "文化14年（1817）刊",
+  "author": "横井千秋（1738〜1801）",
+  "desc": "尾張の宣長門人横井千秋が、歌と詩の違いや優劣を問われて答えた書。宣長がその趣旨に賛同した返書を付す。序は斎藤彦麿で、千村仲雄が板に彫った。"
+ },
  "editions": [
   {
    "pid": "993381",
